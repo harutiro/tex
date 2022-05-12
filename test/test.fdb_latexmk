@@ -1,0 +1,19 @@
+# Fdb version 3
+["dvipdf"] 1652323789 "test.dvi" "test.pdf" "test" 1652323789
+  "test.dvi" 1652323721 392 1b7d3e1b8c31373bdfd2acec773f47e2 "latex"
+  (generated)
+  "test.pdf"
+["latex"] 1652323721 "/Users/k22120kk/Desktop/programs/tex/test/test.tex" "test.dvi" "test" 1652323789
+  "/Users/k22120kk/Desktop/programs/tex/test/test.tex" 1652323506 116 5e2abea474257ac31529121a9cc1617d ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-dvips.def" 1644269979 35666 542d7d1651a3e3c984a42ed032a045c3 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/platex/base/jarticle.cls" 1601501154 25873 fd34d08164a3ea7afd6bc7fe99629a3d ""
+  "/usr/local/texlive/2022/texmf-dist/tex/platex/base/jsize10.clo" 1601501154 8603 0e3b68ad462d501024c2959e1acaa910 ""
+  "/usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf" 1646502317 40171 cdab547de63d26590bebb3baff566530 ""
+  "/usr/local/texlive/2022/texmf-var/web2c/euptex/uplatex.fmt" 1652323404 2801495 c2b26064d98ab9456c6fe62bb54ab22f ""
+  "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
+  "test.aux" 1652323721 32 3985256e7290058c681f74d7a3565a19 "latex"
+  "test.tex" 1652323506 116 5e2abea474257ac31529121a9cc1617d ""
+  (generated)
+  "test.aux"
+  "test.dvi"
+  "test.log"
